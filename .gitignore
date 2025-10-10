@@ -1,0 +1,16 @@
+# Dependencias de Node
+/node_modules
+
+# Archivos de Entorno y Configuración Sensible
+.env
+.env.local
+.env.*.local
+
+# Logs y Cache
+npm-debug.log*
+.npm
+/tmp
+
+# Archivos Generados por el Sistema Operativo
+.DS_Store # Mac
+Thumbs.db # Windows
